@@ -1,0 +1,1880 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.91062020000001,
+                    41.5083668
+                ]
+            },
+            "properties": {
+                "text": "b\"We're #hiring! Read about our latest #job opening here: Direct Care Positions - https://t.co/iHOhwf93Df #Cheshire, CT #CareerArc\"",
+                "star": 1,
+                "created_at": "2018-08-16 21:30:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.283333,
+                    51.45
+                ]
+            },
+            "properties": {
+                "text": "b'Amazing 33rd Birthday \\xf0\\x9f\\x8d\\xb0\\xf0\\x9f\\x8e\\x88\\xf0\\x9f\\xa5\\x82Thanks gauchorichmond and my wonderful company \\xf0\\x9f\\x98\\x98 Lovely messages and gifts thank you all \\xf0\\x9f\\x98\\x8a\\xe2\\x80\\xa6 https://t.co/G0OngdYq2P'",
+                "star": 5,
+                "created_at": "2018-08-16 21:28:22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/V0l6iw7eOq\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:28:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15618094,
+                    51.50196962
+                ]
+            },
+            "properties": {
+                "text": "b'The best pairing ever \\xf0\\x9f\\xa4\\xa4\\xf0\\x9f\\x8d\\xb7\\xf0\\x9f\\x8d\\x96 #marcuswareing #theberkeley #finedining #anniversary #london @ The Berkeley https://t.co/mXIANXWaOM'",
+                "star": 5,
+                "created_at": "2018-08-16 21:28:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Feeling Blue\\n.\\n.\\nSailor Moon Miracle Romance Liquid Eyeliner (Blue)\\n.\\n.\\n#lifeofamua #makeup #mua #makeupartist @ Lo\\xe2\\x80\\xa6 https://t.co/AC2qSL4Drw'",
+                "star": 1,
+                "created_at": "2018-08-16 21:27:48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12269497,
+                    51.51198765
+                ]
+            },
+            "properties": {
+                "text": "b'you are allowed to be both a masterpiece and a work in progress simultaneously - sb en Covent Garden London https://t.co/VLtMRJWulg'",
+                "star": 5,
+                "created_at": "2018-08-16 21:27:46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07725884,
+                    51.50839035
+                ]
+            },
+            "properties": {
+                "text": "b'Karen\\xe2\\x80\\x99s Birthday the Tower. Via The Thames Clipper..\\xf0\\x9f\\x92\\x95 #thetoweroflondon #birthdaygirl #twins #twinx @ Tower of Lond\\xe2\\x80\\xa6 https://t.co/2ylNBxsjcN'",
+                "star": 1,
+                "created_at": "2018-08-16 21:27:35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.25,
+                    42.9833
+                ]
+            },
+            "properties": {
+                "text": "b'#Art inspired #pillowcovers \\xf0\\x9f\\x87\\xa8\\xf0\\x9f\\x87\\xa6 #madeincanada #madewithlove #sweatshopfree #crueltyfree #homedecor #love\\xe2\\x80\\xa6 https://t.co/k1JDKg3mf4'",
+                "star": 1,
+                "created_at": "2018-08-16 21:27:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Hello all! Join DavIsha this Sat morning 9am, Woodhouse college for the pre-carnival party. MAIN EVENT to take plac\\xe2\\x80\\xa6 https://t.co/rjz0Njgavk'",
+                "star": 3,
+                "created_at": "2018-08-16 21:27:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.25895200000001,
+                    42.93694
+                ]
+            },
+            "properties": {
+                "text": "b'Can you recommend anyone for this #job in #London, ON? https://t.co/cha89uWgHn #CustServ #CustExp #Hiring #CareerArc'",
+                "star": 5,
+                "created_at": "2018-08-16 21:27:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15574891,
+                    51.51337957
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @ASKItalian in London https://t.co/ynyYPuxBpm\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:26:50"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08651547,
+                    51.50436548
+                ]
+            },
+            "properties": {
+                "text": "b'So much similarity wyneth11 \\xf0\\x9f\\x98\\x82 #wheninlondon @ The Shard London https://t.co/Olku2Ockgo'",
+                "star": 5,
+                "created_at": "2018-08-16 21:24:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16858806,
+                    51.51671617
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Quadrangle Tower in Paddington, Greater London https://t.co/dcbXd1vbyd\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:24:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12809618,
+                    51.50905122
+                ]
+            },
+            "properties": {
+                "text": "b'brightest morning star \\xe2\\xad\\x90\\xef\\xb8\\x8f #art #uk #london #londoncityworld #london_city_photo #visitlondon @ National Gallery https://t.co/0P8TdCHa2p'",
+                "star": 1,
+                "created_at": "2018-08-16 21:23:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/qUqcTk7cPe\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:23:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Believe in yourself and all shall fall in place \\xf0\\x9f\\x92\\xa5\\n\\n\\xf0\\x9f\\x93\\xb7 @Blackprintng @ London, United Kingdom https://t.co/gpMS9faO5t'",
+                "star": 5,
+                "created_at": "2018-08-16 21:23:21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16620758,
+                    51.49826291
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @CaffeConcerto in Knightsbridge, Greater London https://t.co/QqOILBUmUx\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:22:48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Thursday with them quality lads. Love \\xe2\\x80\\x98em shlags. \\xe2\\x98\\xba\\xef\\xb8\\x8f\\xe2\\x99\\xa5\\xef\\xb8\\x8f \\xc3\\xa0 London, United Kingdom https://t.co/ggtuC0w8rj'",
+                "star": 5,
+                "created_at": "2018-08-16 21:20:41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12377154,
+                    51.506200899999996
+                ]
+            },
+            "properties": {
+                "text": "b'The #Eccentrics dominated the #Baroque &amp; London was its throbbing heart in 1604-1642. \\nThey spearheaded the\\xe2\\x80\\xa6 https://t.co/XtxfCxScB3'",
+                "star": 5,
+                "created_at": "2018-08-16 21:20:28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162698,
+                    51.499572
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Harrods in London, Greater London w/ @bashayeraam https://t.co/A0y2a2kb1E\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:20:12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13430699999999998,
+                    51.513856
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Princi in Soho, Greater London https://t.co/qjMxWRtoGZ\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:19:56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#RockSteady and #RestInPeace #ArethaFranklin - you will endure...\\n\\n#vinyl #record #7inch #45rpm @ London, United Ki\\xe2\\x80\\xa6 https://t.co/jO3NGctHOu'",
+                "star": 5,
+                "created_at": "2018-08-16 21:19:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'All recycling done. At leat for now! #recycling #clay #claymixing #potter #ceramics #atelier #commissions @ London,\\xe2\\x80\\xa6 https://t.co/jei8TnO2Wh'",
+                "star": 5,
+                "created_at": "2018-08-16 21:18:52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#RIPARETHAFRANKLIN EVERYONE PAY HOMAGE TO THIS LADY RIGHT HERE FOR SO MANY HITS...... @ London, United Kingdom https://t.co/f5mr5fOMmJ'",
+                "star": 1,
+                "created_at": "2018-08-16 21:17:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12382842,
+                    51.53160105
+                ]
+            },
+            "properties": {
+                "text": "b'Countless times, I\\xe2\\x80\\x99ve walked past a piano in London because I\\xe2\\x80\\x99m scared to play it as I\\xe2\\x80\\x99m pretty weak on a piano. Bu\\xe2\\x80\\xa6 https://t.co/HTOTQWJj2b'",
+                "star": 1,
+                "created_at": "2018-08-16 21:17:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/72gjVmlEC4\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:16:54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Just posted a video @ London, United Kingdom https://t.co/gcqUi1PnLq'",
+                "star": 5,
+                "created_at": "2018-08-16 21:15:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22920477,
+                    51.48939267
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Old City Arms in London, UK https://t.co/E0fka9WJJD\"",
+                "star": 1,
+                "created_at": "2018-08-16 21:15:11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13907739,
+                    51.51294955
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @PastaioLondon in London, England https://t.co/xb7NKhftFc\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:14:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Red Dwarf!!\\n\\n#reddwarf #lister #rimmer #kryten #cat #holly #hilly #tv #bbc #doodle #drawing #pencil #lineart\\xe2\\x80\\xa6 https://t.co/4RA5LlEoew'",
+                "star": 3,
+                "created_at": "2018-08-16 21:14:47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'\\xf0\\x9f\\x93\\xb7 krishanthiphoto for @bavanandan at theamershamarmsofficial @ London, United Kingdom https://t.co/BRANYLxPMg'",
+                "star": 5,
+                "created_at": "2018-08-16 21:14:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13707161,
+                    51.49754947
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at City of Westminster - @citywestminster in London, Greater London https://t.co/hdOnkjjBeI\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:14:14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00420511,
+                    51.50206029
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @TheO2 Arena in Greenwich, Greater London https://t.co/JDZIhueIBZ\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:13:53"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#Repost jackblack with get_repost\\n\\xe3\\x83\\xbb\\xe3\\x83\\xbb\\xe3\\x83\\xbb\\nRespect #Aretha #ArethaFranklin #QueenofSoul #TrueLegend #Respect @ London, U\\xe2\\x80\\xa6 https://t.co/wnjGe5x6K4'",
+                "star": 1,
+                "created_at": "2018-08-16 21:13:51"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12382842,
+                    51.53160105
+                ]
+            },
+            "properties": {
+                "text": "b'The amount of times I\\xe2\\x80\\x99ve walked past a piano in London and wanted to play it but haven\\xe2\\x80\\x99t, as I\\xe2\\x80\\x99m pretty weak on a p\\xe2\\x80\\xa6 https://t.co/ZiuQwd4ESq'",
+                "star": 1,
+                "created_at": "2018-08-16 21:13:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'RIP The Queen of Soul. \\xf0\\x9f\\x99\\x8f\\xf0\\x9f\\x8f\\xbe\\xe2\\x9d\\xa4 \\n\\n#TheQueenofSoul #ArethaFranklin @ London, United Kingdom https://t.co/mQ6sa5Ysfl'",
+                "star": 5,
+                "created_at": "2018-08-16 21:13:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.00504129,
+                    51.50303177
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @FiveGuysUk in North Greenwich, London https://t.co/v4nNNRXuWr\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:13:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.19350009,
+                    51.51390749
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Hafez in London, UK https://t.co/kVYQiJcOjw\"",
+                "star": 1,
+                "created_at": "2018-08-16 21:11:06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30522655,
+                    51.50617772
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at The Castle Inn - @castleealing in Ealing, Greater London https://t.co/anxnNLfrhm\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:10:03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'The Queen Is Dead, Long Live The Queen. Thanks For The Music. #thequeen \\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2\\xf0\\x9f\\x98\\xa2 @ London, United Kingdom https://t.co/7vpYXGM9fW'",
+                "star": 5,
+                "created_at": "2018-08-16 21:10:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16537910000000003,
+                    51.498905900000004
+                ]
+            },
+            "properties": {
+                "text": "b'\\xf0\\x9f\\x98\\x8d\\xe2\\x9d\\xa4\\xef\\xb8\\x8f (@ Knightsbridge in Knightsbridge, Greater London) https://t.co/GnTMfznIez'",
+                "star": 5,
+                "created_at": "2018-08-16 21:09:14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13117,
+                    51.5105
+                ]
+            },
+            "properties": {
+                "text": "b\"Il paradiso \\xf0\\x9f\\xa4\\xa9 #London @ M&amp;M'S World https://t.co/1zIqX97gDy\"",
+                "star": 1,
+                "created_at": "2018-08-16 21:07:38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'\\xe2\\x98\\x81\\xef\\xb8\\x8f  D R E A M  \\xe2\\x98\\x81\\xef\\xb8\\x8f \\n-\\n-\\n-\\n-\\n-\\n-\\n#photography #sky #clouds #hampstead #london @ London, United Kingdom https://t.co/x3QhIltWbM'",
+                "star": 5,
+                "created_at": "2018-08-16 21:07:21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0178,
+                    51.5066
+                ]
+            },
+            "properties": {
+                "text": "b'Raclette nights \\xf0\\x9f\\xa7\\x80\\xf0\\x9f\\xa5\\x96\\xf0\\x9f\\xa5\\xa9 @ Poplar, London https://t.co/DOhGyX0XPN'",
+                "star": 5,
+                "created_at": "2018-08-16 21:07:16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.102181,
+                    51.4987613
+                ]
+            },
+            "properties": {
+                "text": "b'It\\xe2\\x80\\x99s that time of year #annualclearingselfie @ London South Bank University https://t.co/6bwblmeo3v'",
+                "star": 5,
+                "created_at": "2018-08-16 21:06:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b\"Want to work at The Creative Group? We're #hiring in #London, ON! Click for details: https://t.co/G9YGjMMWyA #Writing #Job #Jobs #CareerArc\"",
+                "star": 1,
+                "created_at": "2018-08-16 21:05:25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#kthingimagery @AlexxaVice #lifestyle #throwbackthursday #mirrorselfie #mirror #pinkhair @ London, United Kingdom https://t.co/sn4Ja3rQEq'",
+                "star": 1,
+                "created_at": "2018-08-16 21:04:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13378099,
+                    51.51127621
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Lyric Theatre for Thriller Live - In Concert in London, Greater London https://t.co/gk6l8C67Tw\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:04:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1141,
+                    51.3373
+                ]
+            },
+            "properties": {
+                "text": "b'Good brow days sponsored by @eylureofficial \\xf0\\x9f\\x99\\x8b\\xf0\\x9f\\x8f\\xbc @ Purley, London https://t.co/d580oC0Qcs'",
+                "star": 5,
+                "created_at": "2018-08-16 21:03:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'RIP Aretha Franklin! Your light will shine on!  You gave us so many happy memories (R.E.S.P.E.C.T.)\\n#rip\\xe2\\x80\\xa6 https://t.co/Yc5Dmb8Qxx'",
+                "star": 1,
+                "created_at": "2018-08-16 21:03:42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15252291,
+                    51.51417308
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Dolly's in London, Greater London https://t.co/qekpk5c8o1\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:03:11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Day Job : Photo of project:\\nArundel Great Court\\nBeautiful concrete... \\nShame to cover it up...\\xf0\\x9f\\x98\\x8e\\n#Morrisroe #London\\xe2\\x80\\xa6 https://t.co/E53Lglm4x5'",
+                "star": 5,
+                "created_at": "2018-08-16 21:03:02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13707161,
+                    51.49754947
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at City of Westminster - @citywestminster in London, Greater London https://t.co/Gigaid9Axi\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:02:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1406634,
+                    51.5134271
+                ]
+            },
+            "properties": {
+                "text": "b'Cannot wait to go back here again sometime next week \\xe2\\x9c\\xa8 @venus_mariatash @ Liberty London https://t.co/N5wwpg23ro'",
+                "star": 1,
+                "created_at": "2018-08-16 21:02:23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0805203,
+                    51.525472799999996
+                ]
+            },
+            "properties": {
+                "text": "b'Who says ball pits can\\xe2\\x80\\x99t be for adults! rachel__annblum let\\xe2\\x80\\x99s go back to London #ballieballerson #London @ BallieBa\\xe2\\x80\\xa6 https://t.co/3jgsfE77R7'",
+                "star": 1,
+                "created_at": "2018-08-16 21:02:02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#tbt to my #birthday before it got messy \\xf0\\x9f\\x98\\x82 #love #friends #family #fun #england #london #travel #holiday #blessed\\xe2\\x80\\xa6 https://t.co/2nhHDChJaI'",
+                "star": 5,
+                "created_at": "2018-08-16 21:01:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.21076,
+                    51.46304
+                ]
+            },
+            "properties": {
+                "text": "b'Fantastic statue in Picadilly Circus  @dutyvip @visitlondon #dutyvip #picadillycircus #horses #statue\\xe2\\x80\\xa6 https://t.co/H9rPSZofZ5'",
+                "star": 5,
+                "created_at": "2018-08-16 21:00:40"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/ivFYX7h3J1\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:00:37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16620758,
+                    51.49826291
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @CaffeConcerto in Knightsbridge, Greater London https://t.co/qDPj17fVYO\"",
+                "star": 5,
+                "created_at": "2018-08-16 21:00:36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.43730979999999997,
+                    51.67742341
+                ]
+            },
+            "properties": {
+                "text": "b\"When your pal is dressed as leopard &amp; you look like you\\xe2\\x80\\x99re going on safari #Coordination \\xf0\\x9f\\x90\\x86 @ The Grove, London's Co\\xe2\\x80\\xa6 https://t.co/DCumkrA4yJ\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:59:15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2924888,
+                    51.47923373
+                ]
+            },
+            "properties": {
+                "text": "b'Throwback to the sky looking like a painting \\xf0\\x9f\\x98\\x8d\\xf0\\x9f\\x96\\x8c #london #kewgardens #eveningsky @ Kew Gardens https://t.co/ImOnqhXlH6'",
+                "star": 1,
+                "created_at": "2018-08-16 20:58:48"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07166667,
+                    51.52194444
+                ]
+            },
+            "properties": {
+                "text": "b\"The final forming of a person's character lies in their own hands #annefrankquote #graffiti #graffitiart\\xe2\\x80\\xa6 https://t.co/35NXYGmTKO\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:58:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15108556,
+                    51.51807904
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Woodlands Restaurant in Paddington, Greater London https://t.co/Ewymdcn4kq\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:58:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13614679999999998,
+                    51.51335593
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Soho in Soho, Greater London https://t.co/gQO6lKCPxE\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:58:01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1344433,
+                    51.51001083
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Piccadilly Circus London Underground Station - @tfltravelalerts in London, Greater London https://t.co/9hqpwniqJG\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:57:16"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27629167,
+                    37.794731299999995
+                ]
+            },
+            "properties": {
+                "text": "b'Just posted a photo @ Jack London Square https://t.co/2Rs05Zm0Vy'",
+                "star": 5,
+                "created_at": "2018-08-16 20:57:13"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13908,
+                    51.51339
+                ]
+            },
+            "properties": {
+                "text": "b'decent day out in Soho \\xe2\\x9a\\xbd\\xef\\xb8\\x8f @ Carnaby London https://t.co/WkhFTdNLEL'",
+                "star": 1,
+                "created_at": "2018-08-16 20:57:05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.30512375,
+                    51.51121
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Amorino in London, England https://t.co/oSvrWWah0M\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:56:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.08435882,
+                    51.52336959
+                ]
+            },
+            "properties": {
+                "text": "b'Cold Hells anyone?! Best seller here at the Fox!   \\n\\n#hellslager #hellohells #camdenhells #camdenbrewery #camden\\xe2\\x80\\xa6 https://t.co/r6TynB7xGy'",
+                "star": 5,
+                "created_at": "2018-08-16 20:56:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.09222222,
+                    51.51583333
+                ]
+            },
+            "properties": {
+                "text": "b'A wonderful little pop up in the city #Beautifulallotment #hiddenLondon #thirstythursday \\xf0\\x9f\\x8d\\xbb\\xf0\\x9f\\x8d\\xb9\\xf0\\x9f\\x8c\\xb3\\xf0\\x9f\\x8c\\xb1\\xf0\\x9f\\x8c\\xbf\\xf0\\x9f\\x8d\\x83 @ City of London https://t.co/g8TsdTvyCe'",
+                "star": 5,
+                "created_at": "2018-08-16 20:56:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.11631702,
+                    51.49610629
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Lambeth in London https://t.co/UVYnDUdZxM\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:55:41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'|\\xf0\\x9f\\x8c\\xb2| Off to play in the English woods in my fave sweater designed by @tarawestfashion \\xf0\\x9f\\x8f\\xb4\\xf3\\xa0\\x81\\xa7\\xf3\\xa0\\x81\\xa2\\xf3\\xa0\\x81\\xa5\\xf3\\xa0\\x81\\xae\\xf3\\xa0\\x81\\xa7\\xf3\\xa0\\x81\\xbf\\xf0\\x9f\\x91\\x8b\\xf0\\x9f\\x8f\\xbd\\xe2\\x9c\\x88\\xef\\xb8\\x8f @ London, United K\\xe2\\x80\\xa6 https://t.co/TbyUst1TyM'",
+                "star": 1,
+                "created_at": "2018-08-16 20:55:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.03762271,
+                    51.53629627
+                ]
+            },
+            "properties": {
+                "text": "b'Sunset Sky on Monday.\\n\\nI thought I\\xe2\\x80\\x99d have a go at editing it on Adobe Lightroom... not bad for a first attempt.\\xe2\\x80\\xa6 https://t.co/FeRxgAZb94'",
+                "star": 1,
+                "created_at": "2018-08-16 20:54:02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Homemade budae jjigae (#Korean army stew) with the #family. \\xf0\\x9f\\x98\\x8b #ohana #food #korea @ London, United Kingdom https://t.co/8TMy8AV89H'",
+                "star": 5,
+                "created_at": "2018-08-16 20:52:32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22614241,
+                    51.51027828
+                ]
+            },
+            "properties": {
+                "text": "b'Could be LA... Actually White City... \\n#thatsunsettho #view #london #sunset #rooftop #thirstythursday #pinkskies @\\xe2\\x80\\xa6 https://t.co/8L03QCgNfr'",
+                "star": 3,
+                "created_at": "2018-08-16 20:51:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Now THIS is a #nudelipstick I had to try it on without a #fullfaceofmakeup just to see if it was #wearable\\xe2\\x80\\xa6 https://t.co/xkDvmjjUXN'",
+                "star": 1,
+                "created_at": "2018-08-16 20:49:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16208943,
+                    51.50192956
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @MrChow in London, Greater London https://t.co/ji8krXxF7k https://t.co/RUrHwukYmz\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:49:12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#tbt 24 years ago - didn\\xe2\\x80\\x99t seem to be enjoying my 4th birthday that much. Much happier turning 28, thanks for all t\\xe2\\x80\\xa6 https://t.co/DzbJF9xMIc'",
+                "star": 5,
+                "created_at": "2018-08-16 20:47:49"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'\\xe2\\x80\\x9c People try to put us down just because we get around ..\\xe2\\x80\\x9d So my Loves , today night i been on a deattaching trip .\\xe2\\x80\\xa6 https://t.co/UDYiXNPtvG'",
+                "star": 1,
+                "created_at": "2018-08-16 20:47:10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'my hand n face r the same colour ok huji just hates me @ London, United Kingdom https://t.co/GYLia7uOgz'",
+                "star": 5,
+                "created_at": "2018-08-16 20:47:08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.27777716,
+                    51.54133461
+                ]
+            },
+            "properties": {
+                "text": "b'#GuessTheCar - Do you know what car this is? Spotted yesterday at the Ace Cafe in London.\\n\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x96\\xaa\\xef\\xb8\\x8f\\xe2\\x80\\xa6 https://t.co/u46urMgKG1'",
+                "star": 1,
+                "created_at": "2018-08-16 20:46:37"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -72.15346059999999,
+                    41.3512901
+                ]
+            },
+            "properties": {
+                "text": "b\"We're #hiring! Read about our latest #job opening here: Receptionist/ Front Desk - https://t.co/B6VDydPlwO\\xe2\\x80\\xa6 https://t.co/rzMHXBNG9m\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:46:04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b'Can you recommend anyone for this #job in #London, ON? https://t.co/5Wn8Jndj4e #Mechanic #Veterans #Hiring #CareerArc'",
+                "star": 5,
+                "created_at": "2018-08-16 20:45:42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07721733,
+                    51.52569173
+                ]
+            },
+            "properties": {
+                "text": "b'\\xf0\\x9f\\x9a\\xa8 @ThePartyStarta | Red Cup &amp; Real Vibes! |\\n.\\n#Redalertparty mirandaldn @ Miranda at Ace Hotel London Shoreditch https://t.co/COU0Sn4DSA'",
+                "star": 5,
+                "created_at": "2018-08-16 20:45:26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Baby boy felt ball garland anyone?\\n#blue #navy #white #pompomgarland #estyuk #ukmade #mumboss #mumpreneur #handmade\\xe2\\x80\\xa6 https://t.co/Q001mSKSyA'",
+                "star": 1,
+                "created_at": "2018-08-16 20:45:00"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.13865072,
+                    51.50566173
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Chutney Mary in London https://t.co/eoNcxbig5b\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:44:47"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b'See how we can offer you a #career that complements your skill set! We are currently #hiring qualified candidates t\\xe2\\x80\\xa6 https://t.co/lgZIvLn6Qq'",
+                "star": 1,
+                "created_at": "2018-08-16 20:44:46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07871581,
+                    51.504976
+                ]
+            },
+            "properties": {
+                "text": "b'Just posted a photo @ City Hall, London https://t.co/8fx50GAKsb'",
+                "star": 5,
+                "created_at": "2018-08-16 20:44:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'\\xe2\\x80\\x98Yeah I\\xe2\\x80\\x99ll just pop along to the fitness thing and see the gang. I won\\xe2\\x80\\x99t join in or anything. I\\xe2\\x80\\x99m too ill...\\xe2\\x80\\x99\\n\\n2 hr\\xe2\\x80\\xa6 https://t.co/gmnU0MQtP6'",
+                "star": 1,
+                "created_at": "2018-08-16 20:44:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'They see us bouncin, they hatin @ London, United Kingdom https://t.co/vetx7asTXt'",
+                "star": 5,
+                "created_at": "2018-08-16 20:43:59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b'Can you recommend anyone for this #job in #London, ON? https://t.co/8eaZf1pr1l #RPN #Hiring #CareerArc'",
+                "star": 5,
+                "created_at": "2018-08-16 20:43:30"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07721733,
+                    51.52569173
+                ]
+            },
+            "properties": {
+                "text": "b'\\xf0\\x9f\\x9a\\xa8 @ThePartyStarta | Red Cup &amp; Real Vibes! |\\n.\\n#Redalertparty mirandaldn @ Miranda at Ace Hotel London Shoreditch https://t.co/zZuiwmvSwl'",
+                "star": 5,
+                "created_at": "2018-08-16 20:43:27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.07721733,
+                    51.52569173
+                ]
+            },
+            "properties": {
+                "text": "b'\\xf0\\x9f\\x9a\\xa8 @ThePartyStarta | Red Cup &amp; Real Vibes! |\\n.\\n#Redalertparty mirandaldn @ Miranda at Ace Hotel London Shoreditch https://t.co/fjcesZaeIP'",
+                "star": 5,
+                "created_at": "2018-08-16 20:43:02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b\"Want to work at TD Bank Canada? We're #hiring in #London, ON! Click for details: https://t.co/P6WrKqZkQb #ProjectMgmt #Job #Jobs #CareerArc\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:42:57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1289687,
+                    51.511052
+                ]
+            },
+            "properties": {
+                "text": "b'@CandBPad is a hidden gem in the heart of Leicester Square, London. Must visit place for wine lovers. \\xf0\\x9f\\x8d\\xb7\\n.\\n.\\xe2\\x80\\xa6 https://t.co/woseBAlEqM'",
+                "star": 5,
+                "created_at": "2018-08-16 20:42:27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16238812,
+                    51.49017006
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @itsuOfficial in London https://t.co/3SkLolgW0L\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:42:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2452768,
+                    42.9849233
+                ]
+            },
+            "properties": {
+                "text": "b\"If you're looking for work in #London, ON, check out this #job: https://t.co/HyQnogyxtx #cintasjobs #Labor #Hiring #CareerArc\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:42:07"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.08326459999999,
+                    37.1289771
+                ]
+            },
+            "properties": {
+                "text": "b'Want to work in #London, KY? View our latest opening: https://t.co/KqEoLAma2O #Job #Jobs #Hiring #CareerArc'",
+                "star": 5,
+                "created_at": "2018-08-16 20:42:06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/wc4wrq9OzO\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:41:46"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16537910000000003,
+                    51.498905900000004
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Knightsbridge in Knightsbridge, Greater London https://t.co/EldPD5DNAE\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:41:19"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.15574891,
+                    51.51337957
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @ASKItalian in London https://t.co/wOtMn1YAV6\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:40:33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.369628,
+                    51.6463136
+                ]
+            },
+            "properties": {
+                "text": "b'#AI #ethics @ London https://t.co/jV0H7DhlfA'",
+                "star": 5,
+                "created_at": "2018-08-16 20:40:27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'I really liked that quote. ;)\\n#London \\n#istanbul \\n#Newyork #Sydney #Moscow #Singapore \\n#Bali #likes #likesforlikes\\xe2\\x80\\xa6 https://t.co/NPyODlTOzF'",
+                "star": 5,
+                "created_at": "2018-08-16 20:40:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.191773,
+                    51.501449900000004
+                ]
+            },
+            "properties": {
+                "text": "b'#Omasake japanhouseldn \\xf0\\x9f\\x87\\xaf\\xf0\\x9f\\x87\\xb5\\n.\\n.\\n.\\n.\\n#amifoodhub #japanesefood #dinner @ Japan House London https://t.co/w6FEIJLp5C'",
+                "star": 5,
+                "created_at": "2018-08-16 20:40:04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Feeling #Green #MercedesBenz #classiccar #mercedes107 #emiliotoppick @ London, United Kingdom https://t.co/i8omMPwl0k'",
+                "star": 5,
+                "created_at": "2018-08-16 20:38:43"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Forever and ever you stay in our \\xf0\\x9f\\x92\\x95 \\xe2\\x9d\\xa4\\xef\\xb8\\x8f\\xf0\\x9f\\x92\\x95#RIP #letmesayalittleprayeryou #sista #queen #greatness \\xf0\\x9f\\x98\\xa2 @ London, United Ki\\xe2\\x80\\xa6 https://t.co/uEyqO0Wbl5'",
+                "star": 1,
+                "created_at": "2018-08-16 20:38:17"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/W8rEgzOqL5\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:38:09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Fitness lads @LambethLadiesfc @ London, United Kingdom https://t.co/3Y8qzzkhwT'",
+                "star": 5,
+                "created_at": "2018-08-16 20:37:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.16923658,
+                    51.49615016
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at L'Opera 2 in London https://t.co/lSLqypP7Sa\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:37:42"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.243177,
+                    42.9869502
+                ]
+            },
+            "properties": {
+                "text": "b\"We're #hiring! Read about our latest #job opening here: Brand Associate - London Smartcentre -\\xe2\\x80\\xa6 https://t.co/kptKEu98ii\"",
+                "star": 1,
+                "created_at": "2018-08-16 20:37:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0365429,
+                    51.4864856
+                ]
+            },
+            "properties": {
+                "text": "b'2-1 win for my reds on Saturday! Have some match photos! \\xe2\\x9a\\xbd\\xf0\\x9f\\x93\\xb8\\xe2\\x9d\\xa4\\n#3points #lastminute #action #football #photography\\xe2\\x80\\xa6 https://t.co/z0erWZlSWU'",
+                "star": 1,
+                "created_at": "2018-08-16 20:37:08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'[Li:ving]20180816\\n#Li:ving2018 #brexit-226 #jroh #living #leaving #dailydrawing #1hour labour #london @londongramer\\xe2\\x80\\xa6 https://t.co/7BiZbFEKEb'",
+                "star": 1,
+                "created_at": "2018-08-16 20:36:45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'#repost with ddoherty05 \\n.\\n.\\n\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xf0\\x9f\\x98\\x82\\xe2\\x9a\\xbd\\xe2\\x9a\\xbd\\xf0\\x9f\\x91\\x8c\\xf0\\x9f\\x87\\xb3\\xf0\\x9f\\x87\\xac I nah get time for e ba mi so fun ooo\\n.....\\n#tnukmedia #naija #hilarious\\xe2\\x80\\xa6 https://t.co/Yhtth1iQrI'",
+                "star": 1,
+                "created_at": "2018-08-16 20:36:14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12788773,
+                    51.50767403
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at London - @visitlondon in Greater London https://t.co/i2ulBC8V0t\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:34:11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05389,
+                    51.4832
+                ]
+            },
+            "properties": {
+                "text": "b'Lots of fab new stock pop in Saturday 18th August 10.30am to 4pm to view or call 07787730976 @ Vintique London https://t.co/tvDxmL641q'",
+                "star": 5,
+                "created_at": "2018-08-16 20:33:02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.2251531,
+                    42.95555175
+                ]
+            },
+            "properties": {
+                "text": "b\"Home\\xe2\\x80\\xa6 @ Parkwood Institute - St. Joseph's Health Care London https://t.co/sAYG3IJW3e\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:32:58"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1454768,
+                    51.50711752
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Burger &amp; Lobster in London, Greater London https://t.co/3DS9JvAjKM\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:32:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152864,
+                    51.51464
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @Selfridges &amp; Co in London, Greater London, Greater London w/ @atoon66 https://t.co/MUV3BZvrt6\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:31:41"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152864,
+                    51.51464
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @Selfridges &amp; Co in London, Greater London, Greater London https://t.co/H6HHML8NWc\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:31:29"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'This is an archive that unveils how the metropole kept (financial) tabs on the colonies. @ London, United Kingdom https://t.co/NOP35OvFdZ'",
+                "star": 1,
+                "created_at": "2018-08-16 20:30:39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Breakfasts in London are always dreamy next to this beauty \\xf0\\x9f\\xa5\\x80 \\nOne of my favourite things about visiting Emily\\xe2\\x80\\x99s fam\\xe2\\x80\\xa6 https://t.co/CHrHMRgTLU'",
+                "star": 5,
+                "created_at": "2018-08-16 20:30:38"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.12731805,
+                    51.50711486
+                ]
+            },
+            "properties": {
+                "text": "b'Breakfasts in London are always dreamy next to this beauty \\xf0\\x9f\\xa5\\x80 \\nOne of my favourite things about visiting Emily\\xe2\\x80\\x99s fam\\xe2\\x80\\xa6 https://t.co/VlSlZnmsn9'",
+                "star": 5,
+                "created_at": "2018-08-16 20:30:34"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.162698,
+                    51.499572
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @Harrods in London, Greater London https://t.co/pWU6DvW7HS\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:30:18"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.152864,
+                    51.51464
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at @Selfridges &amp; Co in London, Greater London, Greater London https://t.co/S9FGYUEFDs\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:28:52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.25569628,
+                    51.58034853
+                ]
+            },
+            "properties": {
+                "text": "b\"I'm at Silver Jubilee Park in Brent, Greater London https://t.co/NAjMMuORnn\"",
+                "star": 5,
+                "created_at": "2018-08-16 20:28:10"
+            }
+        }
+    ]
+}

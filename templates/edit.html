@@ -1,0 +1,75 @@
+{% extends "bootstrap/base.html" %}
+{% block content %}
+
+<body onload="getRestaurant('{{ name }}','{{ star }}')">
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+  
+<div class="header">
+    <div class="header-right">
+      <a class="active" href="../">Home</a>
+    </div>
+</div>
+
+<div class="container">
+  
+  <div>
+    <h2>{{ name }}</h2>      
+    <p id="restAddress"></p>
+  </div>
+</div>
+<hr/>
+<div class="card text-center">
+ 
+  <div class="card-body" >
+      <div id="formHolder">
+
+        <div class="star-ratings-css">
+          <div id ="starHighlighter" class="star-ratings-css-top">
+            
+          </div>
+        <div class="star-ratings-css-bottom"><span>★</span><span>★</span><span>★</span><span>★</span><span>★</span></div>
+      </div>
+    <br/>
+
+     <textarea id="reviewText" name="reviewText" cols="50" rows="4" class="form-control" style="
+      border: none;box-shadow: none;">
+          {{ reviewText }}
+      </textarea>
+      <br/>
+      <form action="{{ url_for('save')}}" method="POST" style="text-align: center;">
+      
+      <input type="hidden" name="saveRestname" value="{{ name }}"/>
+      <input type="hidden" name="saveStarvalue" value="{{ star }}"/>
+      <input type="hidden" name="saveText" value="{{ reviewText }}"/>
+      <input type="hidden" name="saveLatitude" value="{{latitude}}">
+      <input type="hidden" name="saveLongitude" value="{{longitude}}">
+      <br/>
+      <button type="submit" class="btn btn-primary">save</button>
+    </form>
+  </div>
+    <hr/>
+  
+</div></p>
+  
+<!-- Main ML Prediction Display Ends Here -->
+  <div class="card-footer text-muted">
+   
+  </div>
+</div>
+
+
+<script src="{{ url_for('static', filename='src/js/jquery-3.3.1.min.js') }}"></script>
+<script src="{{ url_for('static', filename='src/js/script.js') }}"></script>
+<script src="{{ url_for('static', filename='src/js/location.js') }}"></script>
+
+
+</body>
+
+{% endblock %}
+
+{% block styles %}
+{{super()}}
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='src/css/style.css') }}">
+{% endblock %}

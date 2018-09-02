@@ -1,0 +1,114 @@
+
+{% extends "bootstrap/base.html" %}
+{% block content %}
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" />
+	
+	<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+	<script src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+	
+	
+	<style type="text/css">
+	 	html, body, #map{
+	 		height: 100%;
+	 		padding: 0;
+	 		margin: 0;
+	 	}
+	</style>
+	
+    <title>Resturant Review</title>
+  </head>
+  <body onload="mapPlotter('geo_data')">
+
+  	<div class="header">
+	  <div class="header-right">
+
+	    <a class="active" href="#home">Home</a>
+	  </div>
+	  <h2 style="text-align: center"> <b>Restaurant review analyser</b></h2>
+	</div>
+
+	<div id="formHolder">
+		<div style="width: 50%;margin: 0 auto;">
+			<p>This is a model website, which is developed as a part of my MSc project
+			<ol>
+				<li>Please select one of the Resturant in the webpage</li>
+				<li>Post your review in this website</li>
+				<li>This model will analysis the your review and give rating to the resturant</li>
+				<li>Your review will be saved and pointed in your location</li>
+			</ol>
+		</p>
+		</div>
+		<br/>
+	   <form action="{{ url_for('predict')}}" onsubmit="return formValidation()" name="reviewSubmitter" method="POST">
+			
+			
+			<div class="form-group" style="width: 50%;margin: 0 auto;">
+				<label>To give customer's review</label>
+				
+				<select class="form-control" id="name" name="namequery">
+				  <option value="">Please select one of the following restaurant</option>
+				  <option value="Laurent at Cafe Royal">Laurent at Cafe Royal</option>
+				  <option value="Bar 61 Restaurant">Bar 61 Restaurant</option>
+				  <option value="Peninsula Restaurant">Peninsula Restaurant</option>
+				  <option value="Liman Restaurant">Liman Restaurant</option>
+				</select>
+				</br>
+
+				
+				
+				<label>Restaurant Review</label>
+				<textarea id="reviewText" name="reviewText" cols="50" rows="4" class="form-control" onclick="formValidation();getUserLocation()"></textarea><br />
+
+
+				<button type="submit" class="btn btn-primary">Predict</button>
+			</div>
+			<input type="hidden" name="latitude" id="latitude">
+			<input type="hidden" name="longitude" id="longitude">
+		</form>
+		<br/>
+		<br/>
+		<form action="{{ url_for('view')}}" onsubmit="return formValidation1()" name="reviewSubmitter" method="POST">
+			
+			
+			<div class="form-group" style="width: 50%;margin: 0 auto;">
+				<label>To View Restaurant review</label>
+				
+				<select class="form-control" id="rname" name="restname">
+				  <option value="">Please select one of the following restaurant</option>
+				  <option value="Laurent at Cafe Royal">Laurent at Cafe Royal</option>
+				  <option value="Bar 61 Restaurant">Bar 61 Restaurant</option>
+				  <option value="Peninsula Restaurant">Peninsula Restaurant</option>
+				  <option value="Liman Restaurant">Liman Restaurant</option>
+				</select>
+				</br>
+
+				<button type="submit" class="btn btn-primary">View</button>
+			</div>
+			
+		</form>
+		<hr/>
+
+		<div id = "map" style = "width: 100%; height: 580px"></div>
+
+	</div>
+     
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='src/css/style.css') }}">
+
+   	<script src="{{ url_for('static', filename='src/js/jquery-3.3.1.min.js') }}"></script>
+   	<script src="{{ url_for('static', filename='src/js/script.js') }}"></script>
+   	<script src="{{ url_for('static', filename='src/js/location.js') }}"></script>
+
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" ></script>
+
+
+
+
+{% endblock %}

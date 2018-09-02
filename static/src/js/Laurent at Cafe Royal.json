@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.1217915",
+                    "51.5670284"
+                ]
+            },
+            "properties": {
+                "text": "NOT BAD",
+                "star": "4",
+                "created_at": "22-08-2018 12:29"
+            }
+        }
+    ]
+}

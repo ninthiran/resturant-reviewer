@@ -1,0 +1,20 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    "-0.12178519999999998",
+                    "51.567038"
+                ]
+            },
+            "properties": {
+                "text": "Just arrived in London and super hungry. The steaks were cooked perfectly and tasted great. The service staff are quick and friendly. Lots of locals so you know it is good!",
+                "star": "5",
+                "created_at": "22-08-2018 12:30"
+            }
+        }
+    ]
+}
