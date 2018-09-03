@@ -5,14 +5,14 @@
             "properties": {
                 "text": "great",
                 "star": "5",
-                "created_at": "03-09-2018 19:29"
+                "created_at": "03-09-2018 19:30"
             },
             "type": "Feature",
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    "-0.1218425",
-                    "51.5670412"
+                    "-0.12184139999999999",
+                    "51.5670438"
                 ]
             }
         }
